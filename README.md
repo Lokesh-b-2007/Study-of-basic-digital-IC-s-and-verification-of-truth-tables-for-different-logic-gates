@@ -83,9 +83,11 @@ endmodule
 ~~~
  
 **Logic symbol & Truthtable**
+
 ![447224464-4215772b-512b-421f-974e-3b6abe67fbc8](https://github.com/user-attachments/assets/520513f4-b994-497a-a87d-d8b1e381afa9)
 
 **RTL realization Output:** 
+
 ![447224510-eec9c2df-06a2-4868-8e6a-f8d44323f2d0](https://github.com/user-attachments/assets/f4f0b9d3-102e-4aa6-b2fe-867328e4ec11)
 
 **RTL**
